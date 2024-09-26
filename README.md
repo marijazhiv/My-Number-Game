@@ -20,4 +20,4 @@ MyNumber Game is a two-player game written in C++ using object-oriented programm
 
 1. **Clone the repository:**
    ```sh
-   git clone https://github.com/username/my-number-game.git
+   git clone https://github.com/username/my-number-game.git](https://github.com/marijazhiv/My-Number-Game.git
